@@ -8,7 +8,7 @@ MSc Management @ Imperial College London · BSc Statistics, Economics and Financ
 ## What I'm building
 
 **[jev-chat](https://github.com/jev-chat/jev-chat-jarvis): global edition** · Co-creator, Product Lead (Global)  
-An open-source chat decision assistant (7.4k★). Jev reads the chat, works out what the
+An open-source chat decision assistant (7.5k★). Jev reads the chat, works out what the
 other person wants, and drafts replies for you to choose from. You press send.
 I rebuilt it from the ground up for English and overseas messaging and shipped
 **Jev for WhatsApp** on Android.

@@ -11,8 +11,7 @@ MSc Management @ Imperial College London · BSc Statistics, Economics and Financ
 An open-source chat decision assistant (7.4k★). Jev reads the chat, works out what the
 other person wants, and drafts replies for you to choose from. You press send.
 I rebuilt it from the ground up for English and overseas messaging and shipped
-**Jev for WhatsApp** on Android ([PR #73](https://github.com/jev-chat/jev-chat-jarvis/pull/73) ·
-[release](https://github.com/jev-chat/jev-chat-jarvis/releases/tag/global-v0.1.0)).
+**Jev for WhatsApp** on Android.
 Telegram and other major platforms are next.
 
 **[Flowtype](https://github.com/smgonthebeat/Flowtype)** · Creator  
